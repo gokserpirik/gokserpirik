@@ -11,7 +11,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/gokserpirik/twitter_ui_flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokserpirik&repo=FlutterExampleApps&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokserpirik&repo=twitter_ui_flutter&theme=dark" />
 
 
 
