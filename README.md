@@ -7,6 +7,7 @@
 <a href="https://github.com/gokserpirik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&theme=light&hide_langs_below=1" />
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=ligh)](https://github.com/gokserpirik)
 
 <a href="https://github.com/gokserpirik/twitter_ui_flutter">
