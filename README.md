@@ -5,8 +5,8 @@
 - 📫 Contact me: https://tr.linkedin.com/in/gökser-pirik
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light&hide=kotlin,swift,objective-c)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=ligh)](https://github.com/gokserpirik)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=light&hide=kotlin,swift,objective-c)](https://github.com/gokserpirik)
 
 <a href="https://github.com/gokserpirik/twitter_ui_flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokserpirik&repo=twitter_ui_flutter&theme=github_dark" />
