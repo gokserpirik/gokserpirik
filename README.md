@@ -4,10 +4,8 @@
 - 🎉 I’m open for jobs
 - 📫 Contact me: https://tr.linkedin.com/in/gökser-pirik
 
-<a href="https://github.com/gokserpirik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&theme=light&hide_langs_below=1" />
-</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=ligh)](https://github.com/gokserpirik)
 
 <a href="https://github.com/gokserpirik/twitter_ui_flutter">
