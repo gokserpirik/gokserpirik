@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gokserpirik
+- 🏫 Student at METU.
 - 👀 I’m interested in Dart/Flutter, Python, basic webdev, maybe JS later. Also photography/videography is in my favlist.
 - 🌱 I’m currently trying to be better at Flutter 
 - 🎉 I’m open for jobs
