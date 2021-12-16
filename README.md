@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=light&hide=kotlin,swift,objective-c)](https://github.com/gokserpirik)
 
-<a href="https://github.com/gokserpirik/twitter_ui_flutter">
+<a href="https://github.com/gokserpirik/starbucks-coffee-shop-neumorphic-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokserpirik&repo=starbucks-coffee-shop-neumorphic-app&theme=github_dark" />
 <a href="https://github.com/gokserpirik/food_ordering_app_ui_flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokserpirik&repo=food_ordering_app_ui_flutter&theme=react" />
