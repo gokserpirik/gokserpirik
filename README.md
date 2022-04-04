@@ -6,6 +6,9 @@
 - 📫 Contact me: https://tr.linkedin.com/in/gökser-pirik
 - ⑂ Sometimes I fork projects I worked on. I might not contribute because sometimes I just check the code, and learn from it.
 
+🔗 METU preparation year exams: http://gokserpirik.github.io/metuhazirlik/
+🔗 Calendar: https://gokserpirik.github.io/calendar/
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=light&hide=kotlin,swift,objective-c)](https://github.com/gokserpirik)
 
