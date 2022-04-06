@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @gokserpirik
 - 🏫 Student at METU.
 - 👀 I’m interested in Dart/Flutter, Python, basic webdev, maybe JS later. Also photography/videography is in my favlist.
+ <br/> ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp; 
+ ![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp; 
+  ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp; 
+ ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp; 
 - 🌱 I’m currently trying to be better at Flutter 
 - 🎉 I’m open for jobs
 - 📫 Contact me: https://tr.linkedin.com/in/gökser-pirik
@@ -9,6 +13,7 @@
 🔗 METU preparation year exams: http://gokserpirik.github.io/metuhazirlik/
 🔗 Calendar: https://gokserpirik.github.io/calendar/
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokserpirik&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokserpirik&layout=compact&theme=light&hide=kotlin,swift,objective-c)](https://github.com/gokserpirik)
 
