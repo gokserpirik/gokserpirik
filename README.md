@@ -5,6 +5,8 @@
  ![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp; 
   ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp; 
  ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp; 
+ ![Javascript]( https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=react)&nbsp; 
+
 - 🌱 I’m currently trying to be better at Flutter 
 - 🎉 I’m open for jobs
 - 📫 Contact me: https://tr.linkedin.com/in/gökser-pirik
