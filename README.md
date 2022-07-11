@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokserpirik
 - 🏫 Student at METU.
-- 👀 I’m interested in Dart/Flutter, Python, basic webdev, maybe JS later. Also photography/videography is in my favlist.
+- 👀 I’m mainly interested in Javascript — also Dart/Flutter, Python, basic webdev. Also photography/videography is in my favlist.
  <br/> ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp; 
  ![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp; 
   ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp; 
