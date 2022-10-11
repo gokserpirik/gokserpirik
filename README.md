@@ -13,8 +13,9 @@
 - 📫 Contact me: https://tr.linkedin.com/in/gokserpirik
 - ⑂ Sometimes I fork projects I worked on. I might not contribute because sometimes I just check the code, and learn from it.
 
-🔗 METU preparation year exams: http://gokserpirik.github.io/metuhazirlik/
-🔗 Calendar: https://gokserpirik.github.io/calendar/
+🔗 METU CE Lab-week Control: https://gokserpirik.github.io/metu-ce-freshman-info/  <br/>
+🔗 Calendar: https://gokserpirik.github.io/calendar/  <br/>
+(OUTDATED 🔗 METU preparation year exams: http://gokserpirik.github.io/metuhazirlik/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokserpirik&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=vue-dark)
