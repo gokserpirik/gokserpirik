@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently trying to be better at React 
 - 🎉 I’m open for jobs
-- 📫 Contact me: https://tr.linkedin.com/in/gökser-pirik
+- 📫 Contact me: https://tr.linkedin.com/in/gokserpirik
 - ⑂ Sometimes I fork projects I worked on. I might not contribute because sometimes I just check the code, and learn from it.
 
 🔗 METU preparation year exams: http://gokserpirik.github.io/metuhazirlik/
