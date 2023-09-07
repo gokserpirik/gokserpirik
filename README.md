@@ -8,14 +8,12 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp; 
 
 
-- 🌱 I’m currently trying to be better at React 
+- 🌱 I’m currently trying to be better at Swift and NextJS 
 - 🎉 I’m open for jobs
 - 📫 Contact me: https://tr.linkedin.com/in/gokserpirik
 - ⑂ Sometimes I fork projects I worked on. I might not contribute because sometimes I just check the code, and learn from it.
 
-🔗 METU CE Lab-week Control: https://gokserpirik.github.io/metu-ce-freshman-info/  <br/>
-🔗 Calendar: https://gokserpirik.github.io/calendar/  <br/>
-(OUTDATED 🔗 METU preparation year exams: http://gokserpirik.github.io/metuhazirlik/)
+🔗 Calendar: https://gokserpirik.github.io/calendar/ 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokserpirik&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokserpirik&show_icons=true&theme=vue-dark)
