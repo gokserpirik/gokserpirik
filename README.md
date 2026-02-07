@@ -22,7 +22,10 @@ My **Civil Engineering studies** drive my structural mindset, while my passion f
 
 ---
 
-### 🚀 Leadership & Impact
+### 💼 Experience & Leadership
+
+* **METU ROMER (Robotics & AI Center):** Engineering Project Student
+  > *Migrated mechanism control from Arduino to MATLAB for a supervised research project. Applied embedded systems logic to precision analysis.*
 
 * **GDSC METU '24:** Web/Cloud Team Lead
 * **GDSC METU '22:** Design Team Lead
@@ -32,3 +35,4 @@ My **Civil Engineering studies** drive my structural mindset, while my passion f
 ### 📫 Connect
 
 * **LinkedIn:** [linkedin.com/in/gokserpirik](https://linkedin.com/in/gokserpirik)
+* **Portfolio:** [gokserpirik.com](https://gokserpirik.com)
